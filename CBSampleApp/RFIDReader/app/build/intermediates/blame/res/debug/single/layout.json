@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reader.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\layout\\activity_reader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\connect.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\layout\\connect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\firmware.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\layout\\firmware.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_read_options.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\layout\\settings_read_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\readers_search_diolog.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\layout\\readers_search_diolog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\performance_metrics.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\layout\\performance_metrics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\diolog_alert.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\layout\\diolog_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_layout.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\layout\\group_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_result_view.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\layout\\tag_result_view.xml"
+    }
+]

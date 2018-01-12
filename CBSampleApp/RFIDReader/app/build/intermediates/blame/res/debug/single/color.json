@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\k_primary_text_dark.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\color\\k_primary_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\color\\k_secondary_text_dark.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\color\\k_secondary_text_dark.xml"
+    }
+]

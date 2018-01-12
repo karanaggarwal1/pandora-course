@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 640
+                    }
+                }
+            }
+        ]
+    }
+]

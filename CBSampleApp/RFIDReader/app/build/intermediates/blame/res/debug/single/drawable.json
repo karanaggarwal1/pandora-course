@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clean_title_background_img.9.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable\\clean_title_background_img.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table_style.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable\\table_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\field_clear.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable\\field_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thingmagic_logo.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable\\thingmagic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_style.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable\\edit_text_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thingmagic_icon.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable\\thingmagic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thingmagic_logo_trans.gif",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable\\thingmagic_logo_trans.gif"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thingmagic_title_logo.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable\\thingmagic_title_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_background.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable\\header_background.png"
+    }
+]

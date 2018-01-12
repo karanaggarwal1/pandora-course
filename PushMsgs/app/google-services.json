@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "911800367758",
+    "firebase_url": "https://push-messages-e31ed.firebaseio.com",
+    "project_id": "push-messages-e31ed",
+    "storage_bucket": "push-messages-e31ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911800367758:android:3aa1302233597068",
+        "android_client_info": {
+          "package_name": "com.example.karan.pushmsgs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911800367758-qvdok1hg39td79r493nn2qn2j0v6pjeb.apps.googleusercontent.com",
+          "client_type": 3,
+          "android_info":{
+            "package_name":"com.example.karan.pushmsgs",
+            "certificate_hash":
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGTmGFMGYYLwKjUi8HroZvk4qx6kxXjmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

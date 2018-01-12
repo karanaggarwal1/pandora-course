@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="circleColor" format="color" />
+        <attr name="circleSize" format="enum">
+            <enum name="small" value="100" />
+            <enum name="medium" value="300" />
+            <enum name="large" value="600" />
+        </attr>
+
+    </declare-styleable>
+</resources>

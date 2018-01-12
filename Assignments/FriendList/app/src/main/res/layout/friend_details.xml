@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/friend_details">
+
+
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tv_college"
+        android:layout_toRightOf="@+id/tv_college"
+        android:layout_toEndOf="@+id/tv_college"
+        android:textSize="14sp"
+        android:id="@+id/tv_college_details" />
+
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tv_age"
+        android:layout_toRightOf="@+id/tv_college"
+        android:layout_toEndOf="@+id/tv_college"
+        android:id="@+id/tv_age_details"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:text=""
+        android:textSize="14sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tv_name"
+        android:layout_alignLeft="@+id/tv_age_details"
+        android:layout_alignStart="@+id/tv_age_details"
+        android:id="@+id/tv_name_details" />
+
+    <TextView
+        android:text="College:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_college"
+        android:textSize="14sp"
+        android:layout_below="@+id/tv_age_details"
+        android:layout_alignLeft="@+id/tv_age"
+        android:layout_alignStart="@+id/tv_age"
+        android:layout_marginTop="11dp" />
+
+    <TextView
+        android:text="Name:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_name"
+        android:layout_marginLeft="30dp"
+        android:layout_marginStart="30dp"
+        android:textSize="14sp"
+        android:layout_marginTop="27dp"
+        android:layout_below="@+id/iv_img_friend"
+        android:layout_alignLeft="@+id/iv_img_friend"
+        android:layout_alignStart="@+id/iv_img_friend" />
+
+    <TextView
+        android:text="Age:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="11dp"
+        android:id="@+id/tv_age"
+        android:textSize="14sp"
+        android:layout_below="@+id/tv_name"
+        android:layout_alignLeft="@+id/tv_name"
+        android:layout_alignStart="@+id/tv_name" />
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="120dp"
+        app:srcCompat="@mipmap/default_profile_picture"
+        android:id="@+id/iv_img_friend"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageButton
+            android:layout_width="136dp"
+            android:layout_height="71dp"
+            app:srcCompat="@mipmap/default_profile_picture"
+            android:id="@+id/btn_friend_photo"
+            android:scaleType="fitCenter"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:text=""
+            android:layout_width="136dp"
+            android:layout_height="30dp"
+            android:id="@+id/btn_name"
+            android:background="@color/Bisque"
+            android:layout_below="@+id/btn_friend_photo"
+            android:layout_alignLeft="@+id/btn_friend_photo"
+            android:layout_alignStart="@+id/btn_friend_photo" />
+
+    </RelativeLayout>
+
+</LinearLayout>

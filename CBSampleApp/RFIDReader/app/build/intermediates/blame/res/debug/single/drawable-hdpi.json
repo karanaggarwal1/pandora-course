@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_menu_btn_press.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\main_menu_btn_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\reader_search.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\reader_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_btn_background.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\main_btn_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\clean_cache_back_btn_normal.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\clean_cache_back_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\clean_cache_back_btn_press.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\clean_cache_back_btn_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_background_img.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\title_background_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\history_title_below_bg.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\history_title_below_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_menu_btn_normal.png",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\main_menu_btn_normal.png"
+    }
+]

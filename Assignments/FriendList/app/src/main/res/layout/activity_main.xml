@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="horizontal"
+    tools:context="com.example.karan.friendlist.MainActivity"
+    android:background="@color/Beige">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tv_title"
+        android:textSize="25sp"
+        android:textColor="@color/DarkSlateGray"/>
+
+    <Button
+        android:text="Add Post"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_add_post"
+        android:layout_below="@+id/tv_title"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        style="@style/Widget.AppCompat.Button.Small"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/btn_add_post"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/FragContainer">
+
+        <fragment
+            android:layout_width="101dp"
+            android:layout_height="match_parent"
+            android:name="com.example.karan.friendlist.fragment_friend_list"
+            tools:layout="@layout/friend_list"
+            android:id="@+id/fragment" />
+
+        <fragment
+            android:layout_width="168dp"
+            android:layout_height="match_parent"
+            android:name="com.example.karan.friendlist.fragment_friend_data"
+            tools:layout="@layout/friend_details"
+            android:id="@+id/fragment2"
+            android:layout_weight="1.04" />
+
+    </LinearLayout>
+</RelativeLayout>

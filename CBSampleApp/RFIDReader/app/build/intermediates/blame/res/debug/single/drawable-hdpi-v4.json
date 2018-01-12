@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_menu_btn_selector.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\main_menu_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clean_cache_back_btn_image.xml",
+        "source": "C:\\Users\\Karan\\AndroidStudioProjects\\CBSampleApp\\RFIDReader\\app\\src\\main\\res\\drawable-hdpi\\clean_cache_back_btn_image.xml"
+    }
+]
